@@ -1,3 +1,6 @@
+#IKKE FERDIG :)
+
+
 import random as rnd
 import sys
 import pygame
